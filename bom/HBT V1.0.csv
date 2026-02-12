@@ -1,0 +1,36 @@
+Component,Spec,Qty
+TUB,,
+Tub_Curve_Junction,PVC 6mm,2
+Tub_Curve_Bend,PVC 6mm,2
+Tub_Curve_Bottom_Buckelhead,PVC 6mm,1
+Tub_Curve_Bottom,PVC 6mm,1
+Buckeldhead Support,PVC 6mm,2
+Tub_Straight_Side,PVC 6mm,2
+Tub_Straight_Side_Axis,PVC 6mm,2
+Tub_Straight_Side_Junction,PVC 6mm,4
+Tub_Straight_Side_Bottom,PVC 6mm,2
+Tub_Arm Support,Inox 6mm,1
+Tub_Straight_Junction_Rubber,Rubber 3mm,4
+,,
+COUNTER WHEEL,,
+Tub_Counter Wheel_Side01_PVC,PVC 6mm,1
+Tub_Counter Wheel_Side02_PVC ,PVC 6mm,1
+Tub_Counter Wheel_Plate01,PVC 6mm,1
+Tub_Counter Wheel_CurvePlate,PVC 6mm,1
+Tub_Counter Wheel_Blade PVC,PVC 6mm,6
+Tub_Counter Wheel_Side_inox,Inox 6mm,2
+Tub_Counter Wheel_bottom_inox,Inox 6mm,2
+Tub_Counter Wheel_Blade,Inox 6mm,6
+,,
+ARM,,
+Arm_Axis Support,Inox 6mm,2
+Arm_Motor Plate ,PVC 6mm,1
+Arm_Water Protection_Part01,PVC 6mm,2
+Arm_Water Protection_Part02,PVC 6mm,2
+Arm_Water Protection_Part03,PVC 6mm,2
+Arm_Height Adjustment,Inox 6mm,1
+,,
+WHEEL,,
+Wheel_Structure 01,Inox 6mm,2
+Wheel_Blade,Inox 6mm,12
+Wheel_Counter blade,Inox 6mm,12
